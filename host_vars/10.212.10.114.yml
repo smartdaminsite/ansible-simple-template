@@ -1,0 +1,5 @@
+---
+# Параметры настроки рабочей станции
+USER_LOGIN: 'username'
+USER_DESCRIPTION: 'User Name'
+USER_PASSWORD: '$6$Zs9gGvL8$xCHcwmyoOXZKM0AgC8iLxUaro4Wkbby9W6FcPf7cAb46h3EO1mdrR3XrVNhY4T7PZ19iCpV6Zi3xoMcuIDEca0'
